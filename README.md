@@ -75,6 +75,9 @@ Tic-Tac-Toe/
 
 ---
 
+## 🚀 Live Demo
+👉 https://tic-tac-toe-lekhashree.netlify.app
+
 ## 👩‍💻 Author
 
 Lekhashree B M  
